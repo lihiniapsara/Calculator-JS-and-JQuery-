@@ -17,7 +17,8 @@ a {
 }
 
 body {
-    background-image: linear-gradient( to bottom right, rgba(79,51,176,1.0),rgba(210,53,165));
+    font-family: 'Poppins', sans-serif;
+    background-image: linear-gradient(to bottom right, rgb(252, 2, 127), rgba(10, 6, 239, 0.88));
 }
 
 .container {
